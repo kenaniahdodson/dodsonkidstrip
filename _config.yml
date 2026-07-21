@@ -6,9 +6,9 @@
 # --- Required options --- #
 
 # Name of website
-title: Kenaniah Dodson Portfolio
+title: Dodson Kids Trip 2027
 # Short description of your site
-description: Overview of projects and experience
+description: Just some trip ideas to get the ball rolling
 
 # Your name to show in the footer
 author: Kenaniah Dodson
@@ -16,14 +16,26 @@ author: Kenaniah Dodson
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Experience: "Resume Kenaniah Dodson.pdf"
-  Projects:
-    - Community Social Vulnerability: "Community_Social_Vulnerability"
-    - Tempe Vehicle Collision Dashboard: "traffic-dashboard"
-    - Baseball Wins Compared to Salaries: "Baseball_Wins_to_Salaries"
-    - Movie Scores Wrangling Project: "Movie_Scores_Wrangled"
-    - Collision Data Wrangling and Cleaning: "Collision_Wrangled"
+#  About Me: "aboutme"
+#  Experience: "Resume Kenaniah Dodson.pdf"
+#  Projects:
+#    - Community Social Vulnerability: "Community_Social_Vulnerability"
+#    - Tempe Vehicle Collision Dashboard: "traffic-dashboard"
+#    - Baseball Wins Compared to Salaries: "Baseball_Wins_to_Salaries"
+#    - Movie Scores Wrangling Project: "Movie_Scores_Wrangled"
+#    - Collision Data Wrangling and Cleaning: "Collision_Wrangled"
+  Destinations:
+   - New York: "newyork"
+   - Cruise: "cruise"
+   - NC Beach: "ncbeach"
+   - NC Mountains: "ncmountains"
+   - Austin Texas: "austintexas"
+  Budget Comparisons: "budget_compare"
+  Vote: "vote"
+#  About Me: "aboutme"
+#  Experience: "resume"
+#  Projects:
+#    - Community Social Vulnerability: "mappingcensusdata"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
@@ -88,7 +100,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://kenaniahdodson.github.io/"
+url-pretty: "https://kenaniahdodson.github.io/dodsonkidstrip/"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
