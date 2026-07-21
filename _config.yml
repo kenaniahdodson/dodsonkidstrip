@@ -16,6 +16,14 @@ author: Kenaniah Dodson
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+#  About Me: "aboutme"
+#  Experience: "Resume Kenaniah Dodson.pdf"
+#  Projects:
+#    - Community Social Vulnerability: "Community_Social_Vulnerability"
+#    - Tempe Vehicle Collision Dashboard: "traffic-dashboard"
+#    - Baseball Wins Compared to Salaries: "Baseball_Wins_to_Salaries"
+#    - Movie Scores Wrangling Project: "Movie_Scores_Wrangled"
+#    - Collision Data Wrangling and Cleaning: "Collision_Wrangled"
   Destinations:
    - New York: "newyork"
    - Cruise: "cruise"
@@ -38,7 +46,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/headshot_800.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
