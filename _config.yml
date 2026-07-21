@@ -16,7 +16,12 @@ author: Kenaniah Dodson
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Destinations: "destinations"
+  Destinations:
+   - New York: "newyork"
+   - Cruise: "cruise"
+   - NC Beach: "ncbeach"
+   - NC Mountains: "ncmountains"
+   - Austin Texas: "austintexas"
   Budget Comparisons: "budget_compare"
   Vote: "vote"
 #  About Me: "aboutme"
