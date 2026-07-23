@@ -16,6 +16,7 @@ North Carolina has mountains! If you haven't been they are actuall really nice. 
 
 ### Boone!
 *or a similar small-town*
+
 ![NCM](/assets/img/boone_nc.jpg)
 
 ## Pros:
