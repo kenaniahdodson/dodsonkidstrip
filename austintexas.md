@@ -4,13 +4,13 @@ title: Austin Texas
 subtitle: Some stuff to do!
 ---
 
-![ATX](/assets/img/city_atx.jgp)
+![ATX](/assets/img/city_atx.jpg)
 
 Austin Texas is home to *allegedly* the largest comedy and music scenes in the country! It is also of the youngest *in average age* and the **fastest growing** cities in the US, with a population of over 1 million.
 Some highlights include...
 
 ### Comedy
-![ATX](/assets/img/comedy_atx.jgp)
+![ATX](/assets/img/comedy_atx.jpg)
 
 ### Music
 ![ATX](/assets/img/music_atx.webp)
