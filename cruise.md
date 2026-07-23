@@ -13,7 +13,7 @@ A cruise is a great way to drink too much, eat too much, and see some more of th
 ### Drink!
 ![Cruise](/assets/img/drinks_cr.jpg)
 
-### Excursions###
+### Excursions
 ![Cruise](/assets/img/reef_cr.jpg)
 
 ## Pros:
