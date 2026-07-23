@@ -26,7 +26,7 @@ Some highlights include…
 ![NCM](/assets/img/wine_3.jpg)
 
 ### Versaille
-and many more castles*
+*and many more castles*
 
 ![NCM](/assets/img/versaille_fr.jpg)
 
